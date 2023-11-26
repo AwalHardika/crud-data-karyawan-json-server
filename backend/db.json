@@ -1,0 +1,52 @@
+{
+  "data_karyawan": [
+    {
+      "fullname": "Awal Rafi ganteng kuy kuy",
+      "email": "awalrafihardika@gmail.com",
+      "phone": "085727242226",
+      "id": 1
+    },
+    {
+      "fullname": "Awal kiw kiw",
+      "email": "manukemprit@gmail.co",
+      "phone": "0857374374",
+      "id": 2
+    },
+    {
+      "fullname": "Awalkuuuunnn",
+      "email": "manukemprit30@gmail.co",
+      "phone": "085737437400",
+      "id": 3
+    },
+    {
+      "fullname": "ojeafonewof",
+      "email": "ularsawaah@gmail.com",
+      "phone": "090394093",
+      "id": 4
+    },
+    {
+      "fullname": "efefe",
+      "email": "maeojfoe@gmail.com",
+      "phone": "0380834",
+      "id": 5
+    },
+    {
+      "fullname": "sigit",
+      "email": "sigit@momoy.com",
+      "phone": "0303940",
+      "id": 7
+    },
+    {
+      "fullname": "sigit rendang",
+      "email": "jasidfjeijf@gmail.com",
+      "phone": "050594696",
+      "id": 8
+    },
+    {
+      "fullname": "kuroko no basket",
+      "email": "kurorko@gmail.com",
+      "phone": "343844",
+      "id": 10
+    }
+  ]
+}
